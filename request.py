@@ -1,4 +1,4 @@
-from urllib2 import urlopen, Request, URLError
+from urllib2 import urlopen, URLError
 import subprocess
 
 try:
