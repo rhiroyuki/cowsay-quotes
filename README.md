@@ -1,2 +1,2 @@
 # cowsay-quotes
-Cowsay with quotes from theysaidso.com api
+Cowsay with quotes from api.forismatic.com
